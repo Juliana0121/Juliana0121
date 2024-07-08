@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juliana Numa</h1>
 <img src="https://i.imgur.com/VrDdmGF.png" />
 
-<h3 align="center">Soy Juliana Numa, una apasionada desarrolladora de software con experiencia en Python, HTML, CSS y JavaScript. Me encanta trabajar en proyectos desafiantes y colaborar en equipos ágiles utilizando metodologías Scrum.</h3>
+<h3 align="center">Soy estudiante de Campuslands, una apasionada desarrolladora de software con experiencia en Python, HTML, CSS y JavaScript. Me encanta trabajar en proyectos desafiantes y colaborar en equipos ágiles utilizando metodologías Scrum.</h3>
 
 - 🔭 I’m currently working on **Ecomerse page with JavaScript, html and css**
 
